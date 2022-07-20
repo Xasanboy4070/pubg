@@ -26,7 +26,7 @@ function App() {
             <input type="password" name="password" placeholder="Password" />
             <button>Run</button>
           </form>
-          <p>Take free 180 uc within 24 hours</p>
+          <p>Take free 1800 uc within 24 hours</p>
         </div>
       </div>
     </>
